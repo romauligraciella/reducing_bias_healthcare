@@ -34,6 +34,7 @@ We also explored how gender may influence satisfaction ratings:
 | ------ | -------------------- |
 | Female | 2.78                 |
 | Male   | 6.50                 |
+
 This finding raises important questions:
 Are female patients more critical due to heightened sensitivity to service quality?
 Or are there systemic issues in how services are delivered to female patients?
