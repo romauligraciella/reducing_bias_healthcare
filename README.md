@@ -29,7 +29,7 @@ This updated result suggests dissatisfaction, which may have been masked in the 
 ![image](https://github.com/user-attachments/assets/b6d67d32-a5ad-4eed-9c03-101ac5d8b434)
   
 ## Additional Insight
-Ialso explored how gender may influence satisfaction ratings:
+I also explored how gender may influence satisfaction ratings:
 | Gender | Average Satisfaction |
 | ------ | -------------------- |
 | Female | 2.78                 |
