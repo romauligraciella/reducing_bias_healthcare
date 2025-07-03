@@ -1,5 +1,4 @@
 #  🏥  Bias Mitigation in Patient Satisfaction
-> Originally developed for undergraduate thesis, this project achieved an A as the final grade.
 
 ## Project overview
 This project investigates bias in patient satisfaction survey data from a local hospital. 
