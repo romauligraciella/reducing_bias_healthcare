@@ -19,7 +19,7 @@ However, further inspection revealed potential biases and data quality issues, i
 Given the Ministry’s goal of obtaining objective and reliable feedback, these issues needed to be addressed.
 
 ## Data Cleaning and Bias Reduction
-To improve data reliability, we performed several preprocessing steps:
+To improve data reliability, I performed several preprocessing steps:
 - Removed invalid entries (ratings outside 1–10)
 - Eliminated outliers
 - Balanced the gender distribution among respondents
@@ -29,7 +29,7 @@ This updated result suggests dissatisfaction, which may have been masked in the 
 ![image](https://github.com/user-attachments/assets/b6d67d32-a5ad-4eed-9c03-101ac5d8b434)
   
 ## Additional Insight
-We also explored how gender may influence satisfaction ratings:
+Ialso explored how gender may influence satisfaction ratings:
 | Gender | Average Satisfaction |
 | ------ | -------------------- |
 | Female | 2.78                 |
@@ -45,7 +45,7 @@ A system that initially seemed satisfactory may, in reality, be underperforming 
 Bias mitigation is essential not just for data integrity, but for ensuring equitable and responsive healthcare services.
 
 # Recommendation
-To uncover the root causes of dissatisfaction, we recommend:
+To uncover the root causes of dissatisfaction, Irecommend:
 - Conducting focus group discussions with patients
 - Gathering open-ended feedback
 - Applying Sentiment Analysis and Topic Modeling on patient comments to detect themes contributing to low satisfaction
